@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ### Hi there, I'm Nimra 👋<br><br>🎓 Software Engineering Student<br><br>💻 Learning Programming, Algorithms, and Mobile App Development<br><br>🌱 Currently exploring:<br><br>* Data Structures & Algorithms<br>* Flutter Development<br>* Software Engineering<br><br>🚀 Passionate about technology, problem-solving, and building useful projects.<br><br>⭐ "Every expert was once a beginner."<br>
 
 
